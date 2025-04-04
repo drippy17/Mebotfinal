@@ -1,0 +1,7 @@
+C:\Users\Ontiretse\source\repos\Mebot\Mebot\bin\Debug\Mebot.exe.config
+C:\Users\Ontiretse\source\repos\Mebot\Mebot\bin\Debug\Mebot.exe
+C:\Users\Ontiretse\source\repos\Mebot\Mebot\bin\Debug\Mebot.pdb
+C:\Users\Ontiretse\source\repos\Mebot\Mebot\obj\Debug\Mebot.csproj.AssemblyReference.cache
+C:\Users\Ontiretse\source\repos\Mebot\Mebot\obj\Debug\Mebot.csproj.CoreCompileInputs.cache
+C:\Users\Ontiretse\source\repos\Mebot\Mebot\obj\Debug\Mebot.exe
+C:\Users\Ontiretse\source\repos\Mebot\Mebot\obj\Debug\Mebot.pdb
